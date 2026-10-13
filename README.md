@@ -1,6 +1,6 @@
 # Hi, I'm Ali Safdar
 
-### Full-Stack Developer | React · Angular · Node.js · TypeScript
+### Full-Stack Developer | React · Angular · Node.js · PHP/Laravel · TypeScript
 
 I’m a software developer with **5+ years of professional experience**
 building web applications, CRM systems, APIs, and real-time features.
@@ -22,12 +22,92 @@ design, third-party integrations, and deployment.
 | Area | Technologies |
 | --- | --- |
 | Frontend | React, Next.js, Angular, TypeScript |
-| Backend | Node.js, Express, PHP/Lumen |
+| Backend | Node.js, Express, PHP, Laravel, Lumen, REST APIs, WebSockets |
 | Databases | PostgreSQL, MySQL, MongoDB, Redis |
 | Infrastructure | AWS, Docker, nginx, CI/CD |
 | Integrations | Stripe, Firebase, Customer.io, REST APIs, WebSockets |
 
-## Featured projects
+## Professional projects
+
+### Multi-Tenant CRM — Financial Services
+
+Developed a production CRM with tenant-aware access, lead lifecycle and
+payroll workflows, lender submissions, reporting, and role-based permissions.
+Integrated lender APIs, bank-statement analysis, background processing,
+email automation, and document handling.
+
+**Angular · Node.js · Express · PHP/Lumen · MySQL · MongoDB · Redis · Docker**
+
+### PAAQ — Expert Sessions & Social Platform
+
+Built and operated backend services supporting expert sessions, payments,
+queue-backed processing, real-time workflows, and permissioned video sessions.
+
+**Node.js · Microservices · AWS · Stripe · Redis**
+
+### PALMZ — Food, Grocery & Restaurant Reservations
+
+Built features combining food and grocery ordering, delivery workflows,
+and restaurant reservations.
+
+**Angular · Material UI · Firebase**
+
+### CirclePay — Invoicing & Payment Links
+
+Delivered multi-gateway payment workflows with idempotent webhooks,
+coupons, catalogs, refunds, and failure-safe payment state handling.
+
+**Angular · Node.js · MongoDB · MySQL**
+
+### Keywords — Full-Stack MERN Product
+
+Delivered client-facing React interfaces and the supporting Node.js
+and Express API layer as part of end-to-end product development.
+
+**React · Node.js · Express · MongoDB**
+
+### Level Up — Athlete Training Platform
+
+Built backend services for authentication, team and athlete invitations,
+role-based permissions, and verification workflows.
+
+**Node.js · Express · Firestore**
+
+### Protors — Online Teaching Marketplace
+
+Developed enrollment, ratings, course catalogs, chat, video calls,
+a live teaching whiteboard, and payment integration.
+
+**Angular · Node.js · MongoDB**
+
+### Sign-jet — MEAN Application
+
+Delivered an Angular frontend and REST APIs backed by MongoDB.
+
+**Angular · Node.js · Express · MongoDB**
+
+### White Label — Configurable Business Application
+
+Developed a configurable business application with an Angular frontend
+and a SQL-backed Node.js service layer.
+
+**Angular · Node.js · Express · SQL**
+
+### Taxt — HMRC Integration
+
+Contributed to HMRC API integration, feature updates, debugging,
+and ongoing application maintenance.
+
+**Angular · Material UI · Node.js · MongoDB**
+
+### BirdCage — Game Backend
+
+Built backend services covering core game logic, player data,
+APIs, and supporting third-party libraries.
+
+**Node.js · Express**
+
+## Public demo projects
 
 ### Slotly — AI Appointment Booking
 A multi-tenant booking prototype with conversational AI, scheduling
